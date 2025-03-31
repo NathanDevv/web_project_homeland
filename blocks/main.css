@@ -1,0 +1,31 @@
+/* Sección principal */
+.main__section {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 984px;
+}
+
+.main__text {
+  font-size: 96px;
+  color: #fff;
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: 32px;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.main__paragraph {
+  font-size: 28px;
+  font-weight: 400;
+  color: #fff;
+  margin: 0 auto 30px;
+  max-width: 720px;
+  line-height: 1.4;
+}
+
+.main__image {
+  width: 100%;
+  max-width: 984px;
+  margin-top: 64px;
+}
