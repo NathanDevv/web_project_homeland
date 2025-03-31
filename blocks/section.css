@@ -1,5 +1,4 @@
-/* Estilos para el contenedor de la sección */
-.section-container {
+.section {
   max-width: 984px;
   margin: 60px auto;
   padding: 40px;
@@ -8,7 +7,7 @@
   align-items: flex-start;
 }
 
-.section__text {
+.section__title {
   color: #fff;
   font-size: 54px;
   font-weight: 900;
@@ -18,7 +17,7 @@
   max-height: 174px;
 }
 
-.section__paragraph {
+.section__description {
   color: #fff;
   font-size: 24px;
   font-weight: 400;
@@ -27,13 +26,8 @@
   margin-bottom: 15px;
 }
 
-.section__paragraph-2 {
-  color: #fff;
+.section__description--highlight {
   font-size: 16px;
-  font-weight: 400;
-  text-align: left;
-  line-height: 1.5;
-  margin-bottom: 15px;
 }
 
 .section__quote {
