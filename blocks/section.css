@@ -73,7 +73,7 @@
 /* Estilos para pantallas grandes (1024px en adelante) */
 @media (min-width: 1025px) {
   .main-section__title {
-    font-size: 32px;
+    font-size: 96px;
   }
 
   .section__title {
@@ -82,5 +82,8 @@
 
   .section__description {
     font-size: 20px;
+  }
+  .section__description_highlight {
+    font-size: 16px;
   }
 }
